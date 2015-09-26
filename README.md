@@ -3,7 +3,7 @@ CPU_Design using Logism<br/>
 
 This design belongs to Xiaofei Qiu, Computer engineering student in Georgia Tech<br/>
 
-The CPU_MEM.zip file contains Logism, CPU circuit, and a test program  <br/>
+The CPU_MEM.zip folder contains Logism, CPU circuit, and a test program  <br/>
 
 Video is available here:
 https://www.youtube.com/watch?v=-kW7pbmBHUA<br/>
