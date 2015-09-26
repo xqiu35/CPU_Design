@@ -3,7 +3,10 @@ CPU_Design using Logism<br/>
 
 This design belongs to Xiaofei Qiu, Computer engineering student in Georgia Tech<br/>
 
-The CPU_MEM.zip file contains Logism, my circuit, and a test program  <br/>
+The CPU_MEM.zip file contains Logism, CPU circuit, and a test program  <br/>
+
+Video is available here:
+https://www.youtube.com/watch?v=-kW7pbmBHUA<br/>
 
 How to run:<br/>
 1.Download the zip file and unzip it to your computer<br/>
@@ -17,3 +20,5 @@ How to run:<br/>
 9.Double click computer to go back to main view<br/>
 10. Click Simulate on the menue bar and select Ticks Enable to start clocking<br/>
 11. You can enable and disable clock by click En button and use clr to reset the register and state<br/>
+
+
