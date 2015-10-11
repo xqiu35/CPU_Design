@@ -19,6 +19,6 @@ How to run:<br/>
 8.Laod program that I provided in the zip file<br/>
 9.Double click computer to go back to main view<br/>
 10. Click Simulate on the menue bar and select Ticks Enable to start clocking<br/>
-11. You can enable and disable clock by clicking "En" button and use clr to reset the register and state<br/>
+11. You can enable/disable clock by clicking "En" button and use clr to reset the register and state<br/>
 
 
